@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيونك شفت العالم كله
+> روحي بتنادي والقلب دله
+> تعالي في حضني ونسيني همي
+> نار الشوق بتجري في دمي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
