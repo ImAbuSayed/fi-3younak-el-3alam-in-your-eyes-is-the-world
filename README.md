@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Fi 3younak El 3alam – In Your Eyes Is the World |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fi-3younak-el-3alam-in-your-eyes-is-the-world/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
