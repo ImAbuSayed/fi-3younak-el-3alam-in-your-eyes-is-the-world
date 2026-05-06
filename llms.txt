@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fi-3younak-el-3alam-in-your-eyes-is-the-world/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Fi 3younak El 3alam – In Your Eyes Is the World](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Fi 3younak El 3alam – In Your Eyes Is the World](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
