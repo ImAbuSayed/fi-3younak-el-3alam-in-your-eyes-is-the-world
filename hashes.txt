@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fi 3younak El 3alam – In Your Eyes Is the World
+
+This log tracks the cryptographic history and versioning for the song **Fi 3younak El 3alam – In Your Eyes Is the World** (fi-3younak-el-3alam-in-your-eyes-is-the-world).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:07:44.924404 | `v1` | `ce20f8d2996f1824abc66ca5ed15d2ffaf50c2ff21053f543ba73771eced0a1d` | `1f4b22b25d30e495636a25ab4598e079a074b799a376a1cf5f7c9961eb51af30` | `2026-05-09_fi-3younak-el-3alam-in-your-eyes-is-the-world-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
